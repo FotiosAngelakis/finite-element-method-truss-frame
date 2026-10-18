@@ -6,7 +6,7 @@ structures**. Four structural models – a cube and a lattice crane, each modell
 them with the direct stiffness method and shows displacements, axial strains, axial stresses
 and support reactions as interactive 3D plots and tables.
 
-> **Live demo:** _add your Streamlit link here_ (e.g. `https://<your-app>.streamlit.app`)
+> **Live demo:** (https://finite-element-method-truss-frame.streamlit.app/)
 
 ---
 
@@ -300,8 +300,8 @@ Free apps go to sleep after a period without visitors and take a few seconds to 
 
 ## Author
 
-_Your name – MSc in ..., University of ..._
+_Fotios Angelakis – MSc in Mechanical Engineering, Aristotle University of Thessaloniki_
 
 ## License
 
-_Choose a license (e.g. MIT) and add a `LICENSE` file if you want others to reuse the code._
+MIT
